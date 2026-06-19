@@ -1,8 +1,7 @@
 <div align="center">
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7F00FF,50:A855F7,100:38BDF8&text=SYED%20ABDUL%20KALAM&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7F00FF,50:A855F7,100:38BDF8&text=SYED%20ABDUL%20KALAM&fontColor=000000&fontSize=45&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;duration=2000&amp;pause=800&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=900&amp;height=60&amp;lines=Hey%2C+I'm+Syed+Abdul+Kalam+%F0%9F%91%8B;Founder+%26+CEO+%40+NexLayer;Artificial+Intelligence+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;Generative+AI+Builder+%E2%9C%A8;Prompt+Engineer+%F0%9F%92%AC;Turning+Ideas+Into+Products+%F0%9F%9A%80"/>
 
