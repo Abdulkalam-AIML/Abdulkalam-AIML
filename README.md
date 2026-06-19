@@ -84,11 +84,20 @@ Today, I continue building products that combine:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&amp;color=0:7F00FF,50:A855F7,100:38BDF8&amp;height=150&amp;section=header&amp;text=NexLayer%20Private%20Limited&amp;fontSize=35&amp;fontColor=ffffff&amp;animation=fadeIn"/>
+<h1 align="center">🚀 NexLayer Private Limited</h1>
+<p align="center">
+Building the Next Layer of Intelligent Technology
+</p>
 
-<img src="https://raw.githubusercontent.com/Abdulkalam-AIML/Abdulkalam-AIML/main/nexlayer-logo.jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/Abdulkalam-AIML/Abdulkalam-AIML/main/nexlayer-logo.jpeg" width="150"/>
 
-### 💜 Building the Next Layer of Intelligent Technology
+<h3 align="center">
+Building the Next Layer of Intelligent Technology
+</h3>
+
+<p align="center">
+AI • Software Engineering • Automation • Cloud Solutions
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2500&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Empowering+Businesses+with+AI;Building+Scalable+Software+Products;Driving+Real-World+Impact"/>
 
@@ -156,31 +165,11 @@ Build globally recognized technology products that positively impact millions of
 
 </div>
 
-<br>
+<h2 align="center">💻 Technology Stack</h2>
 
-## 💻 Technology Stack
-
-**🎨 Frontend**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,python,java,spring,postgres,mysql,firebase,supabase,git,github,vscode,vercel,docker,figma&perline=6"/>
 </p>
-
-**⚙️ Backend**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring"/>
-</p>
-
-**🗄️ Database**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase"/>
-</p>
-
-**🛠️ Tools & Platforms**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,figma"/>
-</p>
-
-<br>
 
 ## 🏗️ Architecture Flow
 
@@ -206,7 +195,8 @@ graph TD
 
 </div>
 
-<br>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7F00FF,100:38BDF8&amp;height=2&amp;width=900"/>
 
