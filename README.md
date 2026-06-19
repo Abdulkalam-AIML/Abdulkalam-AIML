@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;color=0:7F00FF,50:A855F7,100:38BDF8&amp;text=SYED%20ABDUL%20KALAM&amp;fontColor=ffffff&amp;fontSize=45&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Founder%20%26%20CEO%20of%20NexLayer%20Private%20Limited&amp;descAlignY=55&amp;descSize=20"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7F00FF,50:A855F7,100:38BDF8&text=SYED%20ABDUL%20KALAM&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;duration=2000&amp;pause=800&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=900&amp;height=60&amp;lines=Hey%2C+I'm+Syed+Abdul+Kalam+%F0%9F%91%8B;Founder+%26+CEO+%40+NexLayer;Artificial+Intelligence+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;Generative+AI+Builder+%E2%9C%A8;Prompt+Engineer+%F0%9F%92%AC;Turning+Ideas+Into+Products+%F0%9F%9A%80"/>
 
@@ -275,7 +277,7 @@ graph TD
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulkalam-AIML&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkalam-AIML&amp;theme=tokyonight&amp;hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Abdulkalam-AIML&amp;theme=tokyonight&amp;hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkalam-AIML&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
 
